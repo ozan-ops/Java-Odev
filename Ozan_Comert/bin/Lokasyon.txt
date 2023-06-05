@@ -1,0 +1,9 @@
+Ingiltere,Londra,Heathrow Havalimani
+Almanya,Berlin,Tegel Havalimani
+Fransa,Paris,Charles de Gaulle Havalimani
+Italya,Roma,Fiumicino Havalimani
+Ispanya,Madrid,Barajas Havalimani
+ABD,New York,JFK Havalimani
+Kanada,Toronto,Pearson Havalimani
+Japonya,Tokyo,Haneda Havalimani
+Guney Kore,Seul,Incheon Havalimani
